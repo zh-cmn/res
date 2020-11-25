@@ -6,6 +6,6 @@
 
 [jsDelivr](https://cdn.jsdelivr.net/gh)
 
-[Static CDN](https://raw.staticdn.net)
+[7ed CDN](https://raw.sevencdn.com)
 
 [Fast Git](https://raw.fastgit.org)
